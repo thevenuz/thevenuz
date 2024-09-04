@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/0qwEBVD.jpeg" alt="header-img" width="400" height="180" />
 </p>
 
-# Hi 👋, I'm venus
+# Hi 👋, I'm sagar (you can call me venus)
 
 ### A fullstack developer who loves to learn just about everything.
 
@@ -65,3 +65,8 @@
 ![thevenuz](https://github-readme-stats.vercel.app/api?username=thevenuz&show_icons=true&locale=en&&include_all_commits=true&theme=github_dark)
 
 ![thevenuz](https://github-readme-streak-stats.herokuapp.com/?user=thevenuz&theme=github_dark)
+
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagar-ambati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar" height="30" width="40" /></a>
+</p>
