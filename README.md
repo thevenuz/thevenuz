@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/0qwEBVD.jpeg" alt="header-img" width="400" height="180" />
 </p>
 
-# Hi 👋, I'm sagar (you can call me venus)
+# Hi 👋, I'm sagar 
 
 ### A fullstack developer who loves to learn just about everything.
 
